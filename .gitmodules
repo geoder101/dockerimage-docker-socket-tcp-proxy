@@ -1,0 +1,3 @@
+[submodule "includes/makefile"]
+	path = includes/makefile
+	url = https://github.com/geoder101/makefile-includes.git
